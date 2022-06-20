@@ -1,0 +1,17 @@
+{
+  "business": {
+    "PriceInUSD": 0,
+    "ThirdPartyShortName": "tinsellycone",
+    "AccountSellerId": "",
+    "UseFirstAvailableReleaseDate": false,
+    "releaseDate": "2022-1-4"
+  },
+  "marketplace": {
+    "sections": [
+      {
+        "category": "Airports",
+        "section": "Airports"
+      }
+    ]
+  }
+}
