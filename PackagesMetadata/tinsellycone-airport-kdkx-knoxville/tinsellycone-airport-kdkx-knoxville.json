@@ -1,0 +1,25 @@
+{
+  "business": {
+    "PriceInUSD": 0.0,
+    "ThirdPartyShortName": "tinsellycone",
+    "AccountSellerId": "",
+    "UseFirstAvailableReleaseDate": false,
+    "releaseDate": "2022-1-4"
+  },
+  "marketplace": {
+    "sections": [
+      {
+        "category": "Airports",
+        "section": "Airports"
+      }
+    ]
+  },
+  "locations": [
+    {
+      "type": "airport",
+      "airportCode": "KDKX",
+      "latitude": 35.96337874509781,
+      "longitude": -83.8734295044337
+    }
+  ]
+}

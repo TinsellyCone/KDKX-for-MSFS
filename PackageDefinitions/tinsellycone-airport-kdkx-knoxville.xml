@@ -16,7 +16,7 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\tinsellycone-airport-kdkx-knoxville\ContentInfo</AssetDir>
+			<AssetDir>PackageDefinitions\tinsellycone-airport-kdkx-knoxville\ContentInfo\</AssetDir>
 			<OutputDir>ContentInfo\tinsellycone-airport-kdkx-knoxville\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="MarketplaceData">
@@ -27,13 +27,13 @@
 			<AssetDir>PackageDefinitions\tinsellycone-airport-kdkx-knoxville\MarketplaceData\</AssetDir>
 			<OutputDir>MarketplaceData\tinsellycone-airport-kdkx-knoxville\</OutputDir>
 		</AssetGroup>
-		<AssetGroup Name="kdkxlib">
+		<AssetGroup Name="modelLibrary">
 			<Type>ModelLib</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\modelLib\</AssetDir>
-			<OutputDir>scenery/global/scenery\</OutputDir>
+			<AssetDir>PackageSources\Scenery\airport-kdkx-knoxville\modelLibrary\</AssetDir>
+			<OutputDir>Scenery\airport-kdkx-knoxville\modelLibrary\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="scenery">
 			<Type>BGL</Type>
@@ -41,7 +41,7 @@
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
 			<AssetDir>PackageSources\data\</AssetDir>
-			<OutputDir>scenery\test\</OutputDir>
+			<OutputDir>scenery\airport-scenery\</OutputDir>
 		</AssetGroup>
 	</AssetGroups>
 </AssetPackage>

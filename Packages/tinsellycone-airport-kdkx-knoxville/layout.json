@@ -3,12 +3,17 @@
     {
       "path": "ContentInfo/tinsellycone-airport-kdkx-knoxville/Thumbnail.jpg",
       "size": 15730,
-      "date": 132999097650273026
+      "date": 133002372314883491
     },
     {
-      "path": "scenery/test/KDKX.bgl",
-      "size": 205849,
-      "date": 132999106230902683
+      "path": "Scenery/airport-kdkx-knoxville/modelLibrary/modelLibrary.BGL",
+      "size": 56,
+      "date": 133002452671208866
+    },
+    {
+      "path": "scenery/airport-scenery/KDKX.bgl",
+      "size": 206553,
+      "date": 133002454252870203
     }
   ]
 }
